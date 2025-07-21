@@ -14,3 +14,18 @@ Python, Pandas, NumPy
 scikit-learn (Linear Regression)
 Matplotlib & Seaborn
 Google Colab
+
+
+Run It Yourself
+On Google Colab:
+
+Locally:
+Install Python 3.x
+
+Install packages:
+
+pip install numpy pandas scikit-learn matplotlib seaborn joblib
+
+Run:
+
+python house_price_prediction.py
